@@ -1,39 +1,19 @@
------------------------------------
-
-_DISCLAIMER:_
-
-Welcome to **raylib game template**!
-
-This template provides a base structure to start developing a small raylib game in plain C. The repo is also pre-configured with a default `LICENSE` (zlib/libpng) and a `README.md` (this one) to be properly filled by users. Feel free to change the LICENSE as required.
-
-All the sections defined by `$(Data to Fill)` are expected to be edited and filled properly. It's recommended to delete this disclaimer message after editing this `README.md` file.
-
-This template has been created to be used with raylib (www.raylib.com) and it's licensed under an unmodified zlib/libpng license.
-
-_Copyright (c) 2014-2022 Ramon Santamaria ([@raysan5](https://twitter.com/raysan5))_
 
 -----------------------------------
 
-## $(Game Title)
-
-![$(Game Title)](screenshots/screenshot000.png "$(Game Title)")
+## Slimey's Adventure
 
 ### Description
 
-$(Your Game Description)
-
-### Features
-
- - $(Game Feature 01)
- - $(Game Feature 02)
- - $(Game Feature 03)
+Slimey has lost his way. complete platforming challenges and help Slimey get back to his family, in Slimey's Adventure
 
 ### Controls
-
 Keyboard:
- - $(Game Control 01)
- - $(Game Control 02)
- - $(Game Control 03)
+ - A and D to move left and right
+ - space to jump
+Gamepad:
+ - Dpad to move left and right
+ - A to jump(on xbox) and X to jump(on playstation)
 
 ### Screenshots
 
@@ -41,9 +21,9 @@ _TODO: Show your game to the world, animated GIFs recommended!._
 
 ### Developers
 
- - $(Developer 01) - $(Role/Tasks Developed)
- - $(Developer 02) - $(Role/Tasks Developed)
- - $(Developer 03) - $(Role/Tasks Developed)
+ - Apianbelle - Main Programmer/director
+ - Duofacies - Music producer
+ - hexRainbow - pixel artist
 
 ### Links
 
@@ -57,4 +37,4 @@ This game sources are licensed under an unmodified zlib/libpng license, which is
 
 $(Additional Licenses)
 
-*Copyright (c) $(Year) $(User Name) ($(User Twitter/GitHub Name))*
+*Copyright (c) 2022 DeepForestInteractive
